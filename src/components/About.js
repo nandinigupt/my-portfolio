@@ -28,7 +28,7 @@ const About = () => {
             <span>JavaScript</span>
             <span>React</span>
             <span>Git</span>
-            <span>Figma</span>
+            <span>MERN STACK</span>
           </div>
         </div>
       </div>

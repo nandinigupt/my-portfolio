@@ -2,22 +2,22 @@ import React from 'react';
 
 const projects = [
   {
-    title: "Task Management App",
+    title: "Student-class- Management",
     description: "A React-based app to manage daily tasks with CRUD operations and responsive UI.",
-    live: "https://your-task-app.netlify.app",
-    code: "https://github.com/yourgithub/task-manager"
+    live: "https://student-manag.netlify.app/",
+    code: "https://github.com/nandinigupt/student-class-management"
   },
   {
-    title: "E-commerce Website",
-    description: "Frontend for an online store with product filters, cart, and responsive design.",
-    live: "https://your-ecom-site.netlify.app",
-    code: "https://github.com/yourgithub/ecommerce-site"
+    title: "Landing-Page",
+    description: " Is a web page that's designed to get visitors to take a specific action.",
+    live: "https://solidupage.netlify.app/",
+    code: "https://github.com/nandinigupt/Landing-Page"
   },
   {
-    title: "Portfolio Website",
-    description: "Responsive personal portfolio built with React, showcasing projects and skills.",
-    live: "https://nandini-portfolio.netlify.app",
-    code: "https://github.com/yourgithub/portfolio"
+    title: "Google-Calendar",
+    description: "Allows users to manage their schedule by creating, organizing, and sharing events, tasks, and reminders.",
+    live: "https://calendar-google.netlify.app/",
+    code: "https://github.com/nandinigupt/MERN-Calendar"
   },
 ];
 
